@@ -17,7 +17,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 /**
- * Created by ProgrammingKnowledge on 1/5/2016.
+ * Created by Simon Moyana 08/11/22
  */
 public class BackgroundWorker extends AsyncTask<String,Void,String> {
     Context context;
