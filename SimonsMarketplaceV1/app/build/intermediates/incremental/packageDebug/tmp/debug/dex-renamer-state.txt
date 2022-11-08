@@ -1,0 +1,4 @@
+#Sat Feb 19 16:37:18 GMT 2022
+base.0=F\:\\Users\\smoya\\AndroidStudioProjects\\SimonsMarketplaceV1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
