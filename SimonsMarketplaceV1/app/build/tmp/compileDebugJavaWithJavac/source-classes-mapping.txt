@@ -1,0 +1,29 @@
+com/example/simonsmarketplacev1/MainActivity.java
+ com.example.simonsmarketplacev1.MainActivity
+com/example/simonsmarketplacev1/ui/dashboard/DashboardViewModel.java
+ com.example.simonsmarketplacev1.ui.dashboard.DashboardViewModel
+com/example/simonsmarketplacev1/ui/notifications/NotificationsViewModel.java
+ com.example.simonsmarketplacev1.ui.notifications.NotificationsViewModel
+com/example/simonsmarketplacev1/ui/home/HomeItemActivity.java
+ com.example.simonsmarketplacev1.ui.home.HomeItemActivity
+com/example/simonsmarketplacev1/ui/dashboard/DashboardAdapter.java
+ com.example.simonsmarketplacev1.ui.dashboard.DashboardAdapter
+ com.example.simonsmarketplacev1.ui.dashboard.DashboardAdapter$1
+ com.example.simonsmarketplacev1.ui.dashboard.DashboardAdapter$DashboardViewHolder
+com/example/simonsmarketplacev1/ui/dashboard/DashboardProfileActivity.java
+ com.example.simonsmarketplacev1.ui.dashboard.DashboardProfileActivity
+com/example/simonsmarketplacev1/ui/home/HomeViewModel.java
+ com.example.simonsmarketplacev1.ui.home.HomeViewModel
+com/example/simonsmarketplacev1/ui/notifications/NotificationsFragment.java
+ com.example.simonsmarketplacev1.ui.notifications.NotificationsFragment
+ com.example.simonsmarketplacev1.ui.notifications.NotificationsFragment$1
+com/example/simonsmarketplacev1/ui/dashboard/DashboardFragment.java
+ com.example.simonsmarketplacev1.ui.dashboard.DashboardFragment
+com/example/simonsmarketplacev1/ui/home/HomeAdapter.java
+ com.example.simonsmarketplacev1.ui.home.HomeAdapter
+ com.example.simonsmarketplacev1.ui.home.HomeAdapter$1
+ com.example.simonsmarketplacev1.ui.home.HomeAdapter$HomeViewHolder
+com/example/simonsmarketplacev1/BuildConfig.java
+ com.example.simonsmarketplacev1.BuildConfig
+com/example/simonsmarketplacev1/ui/home/HomeFragment.java
+ com.example.simonsmarketplacev1.ui.home.HomeFragment
